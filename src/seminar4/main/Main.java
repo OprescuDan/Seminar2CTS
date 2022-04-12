@@ -1,4 +1,4 @@
-package main;
+package seminar4.main;
 //import Factory.familie.Factory;
 //import Factory.familie.TipTransport;
 //import Factory.familie.mijlocTransport;
